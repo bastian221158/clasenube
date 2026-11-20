@@ -1,9 +1,9 @@
 SET NAMES utf8mb4;
 
-CREATE DATABASE IF NOT EXISTS empresa_cloud
+CREATE DATABASE IF NOT EXISTS ayudantias2
   CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 
-USE empresa_cloud;
+USE ayudantias2;
 
 CREATE TABLE IF NOT EXISTS servicios (
   id     INT AUTO_INCREMENT PRIMARY KEY,
